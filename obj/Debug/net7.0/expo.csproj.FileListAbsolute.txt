@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\bin\Debug\net7.0\expo.exe
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\bin\Debug\net7.0\expo.deps.json
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\bin\Debug\net7.0\expo.runtimeconfig.json
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\bin\Debug\net7.0\expo.dll
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\bin\Debug\net7.0\expo.pdb
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.dll
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\refint\expo.dll
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.pdb
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\expo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - ULEAM\Documentos\Primer Parcial Practicas - C#\tarea 4\expo\obj\Debug\net7.0\ref\expo.dll
